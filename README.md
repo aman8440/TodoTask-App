@@ -4,6 +4,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/aman8440/TodoTask-App).
 
+## To access a TODO App
+https://todo-task-app-aman.vercel.app/
+
+## To access a Backend Part
+https://todotask-atwd.onrender.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
