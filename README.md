@@ -33,3 +33,23 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+### Install All dependencies in frontend
+#### `npm install`
+
+### Install All dependencies in backend
+#### `npm install`
+
+### To create a environment file
+Setup a database and give a scecret key jwt authentication and give a username and password to send mail.
+
+### To run a backend
+#### `npm start`
+
+### To run a frontend
+#### `npm start`
+
+### Screenshot
+
+![Screenshot 2024-01-19 154844](https://github.com/aman8440/TodoTask-App/assets/82088006/1330d139-6f45-4a5a-8e57-80e8738bbe87)
+
+
